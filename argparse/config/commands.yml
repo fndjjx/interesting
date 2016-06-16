@@ -1,0 +1,7 @@
+
+runtestsuite:
+    runtestsuite
+rerun:
+    reruntestsuite
+runtestcase:
+    runtestcase
